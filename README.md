@@ -1,7 +1,15 @@
-# Vue 3 + Vite
+# lista-cadop-frontend
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Requisitos
+- [Git](https://git-scm.com)
+- [Node.js](https://nodejs.org)
+- [npm](https://www.npmjs.com)
 
-## Recommended IDE Setup
+## Instruções
+Clonar este repositório e executar os seguintes comandos no diretório raiz do projeto:
+```
+npm install
+npm run dev
+```
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+Para a aplicação funcionar, o servidor da API deve estar disponível. Caso ainda não possua uma cópia do servidor, este pode ser encontrado [aqui](https://github.com/thalesfdm/lista-cadop-backend).
