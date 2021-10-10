@@ -1,0 +1,15 @@
+<script setup>
+import Content from "./components/Content.vue";
+</script>
+
+<template>
+  <Content />
+</template>
+
+<style>
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+</style>
